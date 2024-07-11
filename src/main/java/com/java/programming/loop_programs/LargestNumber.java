@@ -26,5 +26,5 @@ public class LargestNumber {
         }
         System.out.println(largest_digit);
     }
-    }
 }
+
